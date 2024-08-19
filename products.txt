@@ -1,0 +1,5 @@
+Potato, 1.0, Vagetables
+Potato2, 2.0, Vagetables
+Potato3, 4.0, Vagetables
+Spaghetti, 3.4, Groceries
+Salmon, 0.12, fish
